@@ -1,2 +1,4 @@
 # miniProject_UTS_2023
-Ini adalah mini project dengan menggunakan laravel 10 dan Mysql
+Mini Project dengan menggunakan Framework 
+
+Mysql | PHP | Laravel 10 | Auth | HTML5 | Bootsrapt
